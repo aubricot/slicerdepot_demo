@@ -1,5 +1,5 @@
 # SlicerDepot Workshop Demo 
-3D Slicer workshop Seattle   
+3D Slicer SlicerMorph Workshop in Seattle   
 *Mar 2026*
 
 **Setting up MorphoCloud instances and using SlicerDepot**
@@ -9,3 +9,7 @@
 <p align="left"> 
 <sub><sup> Cute quokka from <a href="https://media1.tenor.com/m/m6TOcK6mS_QAAAAd/smile-eating.gif">Tenor</a></sup></sub>
 </p>
+
+**References**
+* [MorphoDepot preprint on ArXiv](https://arxiv.org/pdf/2601.00030)
+* [SlicerMorph paper](https://doi.org/10.1111/2041-210x.13669)
