@@ -10,12 +10,10 @@
 <sub><sup> Cute quokka from <a href="https://media1.tenor.com/m/m6TOcK6mS_QAAAAd/smile-eating.gif">Tenor</a></sup></sub>
 </p>
 
-**References**
+### Quokka jaw
+<img src= "https://jzoblog.wordpress.com/wp-content/uploads/2020/02/quokkajaw.jpg?w=532&h=353">
+The flatter surface of the molars hint towards a herbivorous diet, likely a foivorous diet based on the few small crests.   
+
+### References
 * [MorphoDepot preprint on ArXiv](https://arxiv.org/pdf/2601.00030)
 * [SlicerMorph paper](https://doi.org/10.1111/2041-210x.13669)
-
-
-### Edit
-<img src= "[https://jzoblog.wordpress.com/wp-content/uploads/2020/02/quokkajaw.jpg?w=532&h=353]">
-
-   **The flatter surface of the molars hint towards a herbivorous diet, likely a foivorous diet based on the few small crests*
