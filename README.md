@@ -11,7 +11,7 @@
 </p>
 
 ### Quokka jaw
-<img src= "https://jzoblog.wordpress.com/wp-content/uploads/2020/02/quokkajaw.jpg?w=532&h=353">
+<img src= "https://jzoblog.wordpress.com/wp-content/uploads/2020/02/quokkajaw.jpg?w=532&h=353" width="400">
 The flatter surface of the molars hint towards a herbivorous diet, likely a foivorous diet based on the few small crests.   
 
 ### References
